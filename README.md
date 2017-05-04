@@ -3,6 +3,15 @@
 To launch the DelayedJob worker run:
 
 ```
-rake jobs:work
+bundle exec rake jobs:work
 ```
 
+Launch Rails:
+
+```
+bundle exec rails s
+```
+
+Visit http://localhost:3000/emails and click "New Email"
+
+Create Email
