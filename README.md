@@ -6,7 +6,7 @@ To launch the DelayedJob worker run:
 bundle exec rake jobs:work
 ```
 
-Launch Rails app:
+Launch Rails:
 
 ```
 bundle exec rails s
